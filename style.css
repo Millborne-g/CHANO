@@ -507,7 +507,7 @@ html{
     width: 60px;
     height: 60px;
     border-radius: 100%;
-    background: url("assets/testimonials_customer_img-1.jpg") center no-repeat;
+    background: url("assets/user.png") center no-repeat;
     background-size: cover;    
     margin-right: 1%;
 }
@@ -516,7 +516,7 @@ html{
     width: 60px;
     height: 60px;
     border-radius: 100%;
-    background: url("assets/testimonials_customer_img-2.jpg") center no-repeat;
+    background: url("assets/user.png") center no-repeat;
     background-size: cover;    
     margin-right: 1%;
 }
@@ -525,7 +525,7 @@ html{
     width: 60px;
     height: 60px;
     border-radius: 100%;
-    background: url("assets/testimonials_customer_img-3.jpg") center no-repeat;
+    background: url("assets/user.png") center no-repeat;
     background-size: cover;    
     margin-right: 1%;
 }
@@ -535,7 +535,7 @@ html{
     width: 60px;
     height: 60px;
     border-radius: 100%;
-    background: url("assets/testimonials_customer_img-4.jpg") center -1% no-repeat;
+    background: url("assets/user.png") center -1% no-repeat;
     background-size: cover;    
     margin-right: 1%;
 }
